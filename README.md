@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Flatris](flatris.png)](https://flatris.space/)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
@@ -23,3 +24,7 @@ yarn start
 ```
 
 Go to http://localhost:3000
+=======
+# skillbox_intensiv
+Repo for skillbox intensive "Introducing DevOps" 
+>>>>>>> 2799cf24d0a9e4bb93815f7a876c11e046115b72
